@@ -1,2 +1,2 @@
-# statswebsite.github.io
+# whumo.github.io
 website for BHS stats club
